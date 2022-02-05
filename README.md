@@ -46,3 +46,9 @@ actually completely compatible with the Semantic Versioning, so we can
 defend this by demanding that any Semantic Versioning lawyer tell us
 exactly which part of it we are violating.  That should keep them
 spinning their wheels for a while.
+
+Now being 100% serious: I am _not_ claiming that everyone should use
+semantic versioning for their projects.  I am fervently hoping that if
+someone _claims_ to use semantic versioning, that they follow it
+strictly to the letter.  If you do not want to follow it strictly to
+the letter, then do not claim that you use it.
