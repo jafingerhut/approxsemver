@@ -1,4 +1,4 @@
-# ApproxSemantic Versioning 2.0.0
+# ApproxSemantic Versioning 1.0.0
 
 Summary
 
